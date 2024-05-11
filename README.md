@@ -1,2 +1,2 @@
-# PGD-Batch7
+# PGD-Batch7 NED
 Lectures
