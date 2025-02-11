@@ -1,2 +1,2 @@
-# PGD-Batch7 NED
+# Post graduate university-Batch7 NED
 Lectures
